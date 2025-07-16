@@ -38,6 +38,6 @@ Proyek ini memanfaatkan algoritma machine learning untuk memprediksi pelanggan y
 ![Gambar]([https://example.com/image.png](https://drive.google.com/file/d/10dJd3ZGAbTzSi4x82NNPxRSbUWN8y8nT/view?usp=sharing))
 
 
-![Confusion Matrix](Capstone/Screenshot (1).png)
+![Confusion Matrix](Screenshot (1).png)
 
 
