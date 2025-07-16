@@ -35,4 +35,6 @@ Proyek ini memanfaatkan algoritma machine learning untuk memprediksi pelanggan y
 
 ## 📁 Struktur Proyek
 
+![Gambar]([https://example.com/image.png](https://drive.google.com/file/d/10dJd3ZGAbTzSi4x82NNPxRSbUWN8y8nT/view?usp=sharing))
+
 
